@@ -1,0 +1,95 @@
+{
+        },
+        {
+            "name": "Mr. T. Srajan Kumar",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "9 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_d6b13424cd094bf1813da6765837ae24~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20T_%20Srajan%20Kumar.jpg"
+        },
+        {
+            "name": "Mr. N. V. Krishna Rao",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "21 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_ba0702376a79428f8027823a97c0f9a2~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20N_V_Krishna%20Rao.jpg"
+        },
+        {
+            "name": "Mrs. P. Shyamala",
+            "degree": [
+                "M. Tech (CSE)",
+                "MCA"
+            ],
+            "position": "Assistant Professor",
+            "experience": "17 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_e2159aa787274cbd9ca0177a0fb7b5fe~mv2.jpg/v1/crop/x_0,y_106,w_1699,h_1794/fill/w_161,h_170,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mrs_%20P_Shyamala.jpg"
+        },
+        {
+            "name": "Mr. M. Gouthamm",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "9 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_475855434bdd44ebb7886c3d9af137da~mv2.jpg/v1/crop/x_0,y_15,w_1970,h_2091/fill/w_161,h_171,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20M_Gouthamm.jpg"
+        },
+        {
+            "name": "Mrs. M. Mounika",
+            "degree": [
+                "B. Tech (CSIT)",
+                "M. Tech (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "10 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_2b6fd52331aa4a16b797dc5c7f926910~mv2.jpg/v1/crop/x_0,y_0,w_2961,h_3214/fill/w_160,h_174,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mrs_%20M_%20Mounika.jpg"
+        },
+        {
+            "name": "Mrs. S. Monika",
+            "degree": [
+                "B. E (CSE)",
+                "M. E (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "8.8 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_c971afee4b11445cb2275ceba094d6b8~mv2.jpg/v1/crop/x_0,y_0,w_2779,h_3064/fill/w_156,h_173,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mrs_%20S_%20Monika.jpg"
+        },
+        {
+            "name": "Mrs. S. Sowmya",
+            "degree": [
+                "B. Tech (CSIT)",
+                "MS (CSIT)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "6 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_e94ec9b6747849c0a13353d5c8b5991d~mv2.jpg/v1/fill/w_154,h_173,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mrs_%20S_Sowmya.jpg"
+        },
+        {
+            "name": "Mrs. K. Manasa",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "3.5 Years",
+            "image_link": "https://static.wixstatic.com/media/0c0246_625764181bce4d499d8bdfb99e476331~mv2.jpg/v1/crop/x_0,y_0,w_2809,h_3064/fill/w_160,h_174,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mrs_%20K_%20Manasa.jpg"
+        },
+        {
+            "name": "Mr. Kishore Kumar",
+            "degree": [
+                "B. Tech(EEE)",
+                "M. Tech (EEE)"
+            ],
+            "position": "Assistant Professor",
+            "image_link": "https://static.wixstatic.com/media/0c0246_63d0a3b71561419798bbf5bea1339ada~mv2.jpg/v1/crop/x_0,y_0,w_3348,h_3539/fill/w_161,h_170,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20Kishore%20Kumar.jpg"
+        }
+    ]
+}
